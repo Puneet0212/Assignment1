@@ -3,16 +3,16 @@
 
 >#### _With innovative approaches and advanced methodologies, Vecta Corporation provides scalable business solutions to help companies achieve success through revenue increase, cost management, and user satisfaction. Our approach stems from the three most important business growth aspects: helping companies reach prospects, assist in converting prospects to customers, and assist in retaining those customers. This is accomplished through our interactive solutions and expertise in providing a memorable and positive user experience._
 
-## **Our Solutions**
+* ## **Our Solutions**
 
-* ### vProspect 2.0
-#### Define and research your target audience, define your strategy to reach that audience and present a strong and memorable brand to that audience.
+   * ### vProspect 2.0
+     * #### Define and research your target audience, define your strategy to reach that audience and present a strong and memorable brand to that audience.
 
-* ### vConvert 2.0
-#### Create a highly user-friendly and easy-to-navigate information architecture that will help your prospects interact with the company on a highly interactive level.
+  * ### vConvert 2.0
+    * #### Create a highly user-friendly and easy-to-navigate information architecture that will help your prospects interact with the company on a highly interactive level.
 
-* ### vRetain 1.0
-#### Build on existing customer relationships to improve productivity and maximize customer loyalty, while growing revenues.
+  * ### vRetain 1.0
+    * #### Build on existing customer relationships to improve productivity and maximize customer loyalty, while growing revenues.
 
 ## **Client Testimonials**
 
@@ -37,8 +37,7 @@ Tel. (800) 555-5555_
 
 ### **Management Team**
 
-> Agnes, Vice President, Accounting
-Damon, Director of Development
-Herbert, Director of Human Resources
-Mike, Vice President, Marketing
-Ferris, Founder and CEO
+> 1. Agnes,  Vice President, Accounting Damon, 
+> 2. Director of Development Herbert, 
+> 3. Director of Human Resources Mike, Vice President, 
+> 4. Marketing Ferris, Founder and CEO
